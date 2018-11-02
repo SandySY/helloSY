@@ -2167,9 +2167,9 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 /*# sourceMappingURL=style.css.map */
 .engine {
 	position: absolute;
+	top: 0;
+	padding: 0;
+	left: -2400px;
 	text-indent: -2400px;
 	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
 }
